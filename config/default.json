@@ -1,0 +1,17 @@
+{
+  // Module Configuration
+  "Cars": {
+    "databaseConfiguration": {
+      "host": "127.0.0.1",
+      "port": 27017,
+      "database": "cars",
+      "user": "root",
+      "password": "r00t"
+    },
+    "server": {
+      "port": 3000,
+      "host": "127.0.0.1",
+      "bindsToAllAddresses": true
+    }
+  }
+}

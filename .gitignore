@@ -1,0 +1,12 @@
+# Node Modules / Log
+node_modules
+npm-debug.log
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+# vscode
+.vscode

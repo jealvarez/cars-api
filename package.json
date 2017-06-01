@@ -1,0 +1,27 @@
+{
+  "name": "cars-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": {
+    "name": "Jorge Alvarez",
+    "email": "alvarez.jeap@gmail.com"
+  },
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "config": "^1.26.1",
+    "consolidate": "^0.14.5",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "handlebars": "^4.0.10",
+    "mongodb": "^2.2.27"
+  }
+}
